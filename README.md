@@ -1,5 +1,6 @@
 
 ### Hi there, I'm Karim - aka [KMOZ] 👋 
 
-![twitter.com/niceblueman](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fniceblueman)
+![Twitter URL](https://img.shields.io/twitter/url?label=niceblueman&style=social&url=https%3A%2F%2Ftwitter.com%2Fniceblueman)
 
+![GitHub followers](https://img.shields.io/github/followers/KM8Oz?style=social)
