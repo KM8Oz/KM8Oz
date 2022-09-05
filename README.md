@@ -9,3 +9,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KM8Oz&show_icons=true&theme=gotham" alt="KM8Oz" />
 </p>
+<h2>Top lang Stats</h2>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KM8Oz" alt="KM8Oz" />
+</p>
