@@ -13,3 +13,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KM8Oz" alt="KM8Oz" />
 </p>
+<h2>Promoted software product</h2>
+<a href="https://vignette.kmoz.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
