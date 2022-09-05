@@ -15,5 +15,5 @@
 </p>
 <h2>Promoted software product</h2>
 <a href="https://vignette.kmoz.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://raw.githubusercontent.com/KM8Oz/KM8Oz/main/Screen%20Shot%202022-09-05%20at%2011.58.04%20AM.png" />
 </a>
