@@ -9,14 +9,18 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KM8Oz&show_icons=true&theme=gotham" alt="KM8Oz" />
 </p>
-<h2>Promoted software product</h2>
-
+<h2>Software products:</h2>
+<div style="display:flex; flex-direction:row; flex-wrap:wrap;">
+<div>
 <h4>Vignettes:</h4>
 <a href="https://vignette.kmoz.dev">
   <img width="200"  align="center" src="https://res.cloudinary.com/dupagadir/image/upload/v1665660525/Screen_Shot_2022-10-13_at_2.18.22_PM_giqdad.png" />
 </a>
-
+</div>
+<div>
 <h4>Bulkus:</h4>
 <a href="https://bulkus.ru">
   <img align="center" width="200" src="https://res.cloudinary.com/dupagadir/image/upload/v1665660525/Screen_Shot_2022-10-13_at_2.18.09_PM_rfh9mv.png" />
 </a>
+  </div>
+</div>
