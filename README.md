@@ -11,5 +11,5 @@
 </p>
 <h2>Promoted software product</h2>
 <a href="https://vignette.kmoz.dev">
-  <img align="center" src="https://raw.githubusercontent.com/KM8Oz/KM8Oz/main/Screen%20Shot%202022-09-05%20at%2011.58.04%20AM.png" />
+  <img align="center" src="https://res.cloudinary.com/dupagadir/image/upload/v1665660525/Screen_Shot_2022-10-13_at_2.18.22_PM_giqdad.png" />
 </a>
