@@ -10,7 +10,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KM8Oz&show_icons=true&theme=gotham" alt="KM8Oz" />
 </p>
 <h2>GitHub Stats</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KM8Oz&layout=compact)](https://github.com/KM8Oz/KM8Oz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KM8Oz&layout=compact)](https://github.com/KM8Oz/KM8Oz)
 <h2>Software products:</h2>
 <div style="display:flex; flex-direction:row; flex-wrap:wrap;">
 <div>
