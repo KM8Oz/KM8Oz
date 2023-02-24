@@ -20,7 +20,7 @@
 </div>
 <div>
 <h4>Bulkus:</h4>
-<a href="https://bulkus.ru">
+<a href="https://mailvalidator.online">
   <img align="center" width="200" src="https://res.cloudinary.com/dupagadir/image/upload/v1665660525/Screen_Shot_2022-10-13_at_2.18.09_PM_rfh9mv.png" />
 </a>
   </div>
